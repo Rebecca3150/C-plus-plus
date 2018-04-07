@@ -1,0 +1,1 @@
+void gongYueAndBei(int m, int n, int *p, int *q);

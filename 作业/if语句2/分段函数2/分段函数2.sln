@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "分段函数2", "分段函数2\分段函数2.vcxproj", "{ABB9550B-56FA-44BD-9607-B7763BAD6BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB9550B-56FA-44BD-9607-B7763BAD6BE8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABB9550B-56FA-44BD-9607-B7763BAD6BE8}.Debug|Win32.Build.0 = Debug|Win32
+		{ABB9550B-56FA-44BD-9607-B7763BAD6BE8}.Release|Win32.ActiveCfg = Release|Win32
+		{ABB9550B-56FA-44BD-9607-B7763BAD6BE8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

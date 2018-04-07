@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "分段函数2", "分段函数2\分段函数2.vcxproj", "{263F39EE-9427-4169-AE35-C57B79FB3EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263F39EE-9427-4169-AE35-C57B79FB3EAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{263F39EE-9427-4169-AE35-C57B79FB3EAE}.Debug|Win32.Build.0 = Debug|Win32
+		{263F39EE-9427-4169-AE35-C57B79FB3EAE}.Release|Win32.ActiveCfg = Release|Win32
+		{263F39EE-9427-4169-AE35-C57B79FB3EAE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

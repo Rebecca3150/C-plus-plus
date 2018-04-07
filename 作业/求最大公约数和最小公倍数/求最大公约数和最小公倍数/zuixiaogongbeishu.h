@@ -1,0 +1,1 @@
+int zuidagongbeishu(int a,int b);

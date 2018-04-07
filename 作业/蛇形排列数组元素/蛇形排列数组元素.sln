@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "蛇形排列数组元素", "蛇形排列数组元素\蛇形排列数组元素.vcxproj", "{D3FF315E-B554-47C0-AE65-D6AC38985D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FF315E-B554-47C0-AE65-D6AC38985D81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3FF315E-B554-47C0-AE65-D6AC38985D81}.Debug|Win32.Build.0 = Debug|Win32
+		{D3FF315E-B554-47C0-AE65-D6AC38985D81}.Release|Win32.ActiveCfg = Release|Win32
+		{D3FF315E-B554-47C0-AE65-D6AC38985D81}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

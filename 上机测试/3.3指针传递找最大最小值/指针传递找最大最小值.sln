@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指针传递找最大最小值", "指针传递找最大最小值\指针传递找最大最小值.vcxproj", "{0C7B1271-F2E3-41A0-B164-32076C2A6184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C7B1271-F2E3-41A0-B164-32076C2A6184}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C7B1271-F2E3-41A0-B164-32076C2A6184}.Debug|Win32.Build.0 = Debug|Win32
+		{0C7B1271-F2E3-41A0-B164-32076C2A6184}.Release|Win32.ActiveCfg = Release|Win32
+		{0C7B1271-F2E3-41A0-B164-32076C2A6184}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

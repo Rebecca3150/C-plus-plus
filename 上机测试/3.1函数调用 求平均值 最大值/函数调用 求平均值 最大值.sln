@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数调用 求平均值 最大值", "函数调用 求平均值 最大值\函数调用 求平均值 最大值.vcxproj", "{11AA91CC-7F3B-42EF-9745-3C208C3B7112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11AA91CC-7F3B-42EF-9745-3C208C3B7112}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11AA91CC-7F3B-42EF-9745-3C208C3B7112}.Debug|Win32.Build.0 = Debug|Win32
+		{11AA91CC-7F3B-42EF-9745-3C208C3B7112}.Release|Win32.ActiveCfg = Release|Win32
+		{11AA91CC-7F3B-42EF-9745-3C208C3B7112}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

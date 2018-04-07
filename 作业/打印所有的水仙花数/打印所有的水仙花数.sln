@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "打印所有的水仙花数", "打印所有的水仙花数\打印所有的水仙花数.vcproj", "{20EC7E99-C053-4F75-A144-C2498D931169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20EC7E99-C053-4F75-A144-C2498D931169}.Debug|Win32.ActiveCfg = Debug|Win32
+		{20EC7E99-C053-4F75-A144-C2498D931169}.Debug|Win32.Build.0 = Debug|Win32
+		{20EC7E99-C053-4F75-A144-C2498D931169}.Release|Win32.ActiveCfg = Release|Win32
+		{20EC7E99-C053-4F75-A144-C2498D931169}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

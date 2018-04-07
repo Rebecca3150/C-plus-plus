@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "爱因斯坦数学问题", "爱因斯坦数学问题\爱因斯坦数学问题.vcxproj", "{56847852-AA1C-4D05-A5DD-252D8D3D8701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56847852-AA1C-4D05-A5DD-252D8D3D8701}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56847852-AA1C-4D05-A5DD-252D8D3D8701}.Debug|Win32.Build.0 = Debug|Win32
+		{56847852-AA1C-4D05-A5DD-252D8D3D8701}.Release|Win32.ActiveCfg = Release|Win32
+		{56847852-AA1C-4D05-A5DD-252D8D3D8701}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

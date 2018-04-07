@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test3 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP2711.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test3.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"C:\test3\main.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP2711.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP2722.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/test3.pdb" /debug /machine:I386 /out:"Debug/test3.exe" /pdbtype:sept 
+.\Debug\main.obj
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP2722.tmp"
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+C:\test3\main.cpp(14) : error C2562: 'MaxAndMin' : 'void' function returning a value
+        C:\test3\main.cpp(7) : see declaration of 'MaxAndMin'
+C:\test3\main.cpp(19) : error C2133: 'numbers' : unknown size
+C:\test3\main.cpp(20) : error C2065: 'cout' : undeclared identifier
+C:\test3\main.cpp(20) : error C2297: '<<' : illegal, right operand has type 'char [13]'
+C:\test3\main.cpp(22) : error C2065: 'cin' : undeclared identifier
+C:\test3\main.cpp(22) : warning C4552: '>>' : operator has no effect; expected operator with side-effect
+C:\test3\main.cpp(23) : error C2660: 'MaxAndMin' : function does not take 3 parameters
+C:\test3\main.cpp(24) : error C2297: '<<' : illegal, right operand has type 'char [16]'
+C:\test3\main.cpp(24) : error C2065: 'endl' : undeclared identifier
+C:\test3\main.cpp(25) : error C2297: '<<' : illegal, right operand has type 'char [16]'
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+test3.exe - 9 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

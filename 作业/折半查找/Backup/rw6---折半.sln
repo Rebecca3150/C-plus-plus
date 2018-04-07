@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rw6---折半", "rw6---折半\rw6---折半.vcproj", "{936C77C9-54CB-47A9-9C99-D5A915879C59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936C77C9-54CB-47A9-9C99-D5A915879C59}.Debug|Win32.ActiveCfg = Debug|Win32
+		{936C77C9-54CB-47A9-9C99-D5A915879C59}.Debug|Win32.Build.0 = Debug|Win32
+		{936C77C9-54CB-47A9-9C99-D5A915879C59}.Release|Win32.ActiveCfg = Release|Win32
+		{936C77C9-54CB-47A9-9C99-D5A915879C59}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
